@@ -1,10 +1,4 @@
-<details open>
-  <summary><h3>🪑 Basics</h3></summary>
-  
-  [tts.mp4](https://raw.githubusercontent.com/RanjitDas-IN/Nisha-Voice-AI/main/tts.mp4)
-
-  [test.webm](https://user-images.githubusercontent.com/RanjitDas-IN/Nisha-Voice-AI/main/tts.webm)
-  
-  [pizza1.ssswebm](https://user-images.githubusercontent.com/34592747/cfa98e54-721c-4b9c-b962-688e09db684f.webm)
-  
-</details>
+<video controls width="640" height="360">
+  <source src="https://raw.githubusercontent.com/RanjitDas-IN/Nisha-Voice-AI/main/tts.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
