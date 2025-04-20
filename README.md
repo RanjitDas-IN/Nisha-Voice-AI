@@ -1,3 +1,2 @@
-<video controls width="250">
-  <source src="https://github.com/RanjitDas-IN/Nisha-Voice-AI/raw/refs/heads/main/tts.webm" type="video/webm" />
-</video>
+[a-tts](https://github.com/RanjitDas-IN/RanjitDas-IN.github.io/releases/download/test/a-tts.webm)
+[v-tts](https://github.com/RanjitDas-IN/RanjitDas-IN.github.io/releases/download/test/tts.webm)
