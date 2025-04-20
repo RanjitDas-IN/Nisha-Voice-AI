@@ -1,4 +1,3 @@
-<audio controls>
-  <source src="https://github.com/RanjitDas-IN/Nisha-Voice-AI/raw/refs/heads/main/tts.webm" type="video/webm">
-Your browser does not support the audio element.
-</audio>
+<video controls width="250">
+  <source src="https://github.com/RanjitDas-IN/Nisha-Voice-AI/raw/refs/heads/main/tts.webm" type="video/webm" />
+</video>
